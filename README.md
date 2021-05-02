@@ -1,3 +1,3 @@
 # basicSlider
 
-##Slider for Cartoon chua
+## Slider for Cartoon chua
